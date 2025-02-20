@@ -1,8 +1,8 @@
 {
-  "name": "com.poplar-fantasm.pfenemy",
+  "name": "com.poplar-fantasm.pfcharacters",
   "version": "1.0.0",
-  "displayName": "PFEnemy",
-  "description": "Enemy Data for Poplarfantasm",
+  "displayName": "PFCharacters",
+  "description": "Characters Data for Poplarfantasm",
   "unity": "2020.3",
   "author": {
     "name": "Yuzu Sakura",
@@ -12,6 +12,6 @@
   "keywords": [
     "RPG",
     "Fantasy",
-    "Enemy"
+    "Characters"
   ]
 }

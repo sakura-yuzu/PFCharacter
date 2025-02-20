@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: PFEnemy
+  productName: PFCharacters
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,7 +721,7 @@ PlayerSettings:
   cloudProjectId: 8bbe0831-b4e6-48b4-a865-39dea8ec017a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: PFEnemy
+  projectName: PFCharacters
   organizationId: k_t_k_r_k
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

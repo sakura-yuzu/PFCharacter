@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4be47f517a553f458f61668179bdcf7, type: 3}
+  m_Name: Void_Amulet
+  m_EditorClassIdentifier: Assembly-CSharp:PFCharacters.Macros:Equipment
+  displayName: "\u865A\u7121\u306E\u30A2\u30DF\u30E5\u30EC\u30C3\u30C8"
+  description: "\u672A\u77E5\u306E\u9B54\u529B\u3092\u79D8\u3081\u305F\u30A2\u30DF\u30E5\u30EC\u30C3\u30C8\u3002"
+  prefabAddress: 
+  defense: 3
+  attack: 3
+  speed: 3
+  dodgeRate: 3
+  poisonResist: 3
+  paralysisResist: 3
+  sleepResist: 3
+  confusionResist: 3
+  blindResist: 3
+  curseResist: 3
+  burnResist: 0
+  freezeResist: 5
+  fireEnhance: 5
+  waterEnhance: 5
+  windEnhance: 5
+  earthEnhance: 15
+  slot: 3

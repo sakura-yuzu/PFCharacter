@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4be47f517a553f458f61668179bdcf7, type: 3}
+  m_Name: Glacier_Gloves
+  m_EditorClassIdentifier: Assembly-CSharp:PFCharacters.Macros:Equipment
+  displayName: "\u6C37\u5D50\u306E\u624B\u888B"
+  description: "\u6C37\u306E\u7CBE\u970A\u306E\u529B\u3092\u5BBF\u3057\u305F\u624B\u888B\u3002"
+  prefabAddress: 
+  defense: 5
+  attack: 5
+  speed: 0
+  dodgeRate: 0
+  poisonResist: 5
+  paralysisResist: 5
+  sleepResist: 5
+  confusionResist: 5
+  blindResist: 5
+  curseResist: 5
+  burnResist: 0
+  freezeResist: 0
+  fireEnhance: 20
+  waterEnhance: 0
+  windEnhance: 0
+  earthEnhance: 10
+  slot: 5

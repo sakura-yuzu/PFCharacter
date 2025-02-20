@@ -6699,7 +6699,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c388354f61ed08448c5a2849a87e837, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  setting: {fileID: 11400000, guid: d7837c4ecd17a8f4686befb26a6ed613, type: 2}
+  creatureSetting: {fileID: 11400000, guid: d7837c4ecd17a8f4686befb26a6ed613, type: 2}
+  equipmentSetting: {fileID: 11400000, guid: bf70e34b7865cb44cbafd3b1f4eaa59a, type: 2}
 --- !u!95 &7776023484532120514
 Animator:
   serializedVersion: 5

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4be47f517a553f458f61668179bdcf7, type: 3}
+  m_Name: Celestial_Circlet
+  m_EditorClassIdentifier: Assembly-CSharp:PFCharacters.Macros:Equipment
+  displayName: "\u5929\u661F\u306E\u30B5\u30FC\u30AF\u30EC\u30C3\u30C8"
+  description: "\u5929\u7A7A\u306E\u529B\u3092\u5BBF\u3057\u305F\u30B5\u30FC\u30AF\u30EC\u30C3\u30C8\u3002\u9B54\u6CD5\u306E\u5A01\u529B\u3092\u9AD8\u3081\u308B\u3002"
+  prefabAddress: 
+  defense: 7
+  attack: 0
+  speed: 0
+  dodgeRate: 0
+  poisonResist: 10
+  paralysisResist: 10
+  sleepResist: 5
+  confusionResist: 5
+  blindResist: 5
+  curseResist: 15
+  burnResist: 0
+  freezeResist: 5
+  fireEnhance: 5
+  waterEnhance: 5
+  windEnhance: 5
+  earthEnhance: 20
+  slot: 1

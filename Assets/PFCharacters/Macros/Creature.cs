@@ -4,6 +4,7 @@ namespace PFCharacters.Macros
 {
 	class Creature : MonoBehaviour
 	{
-		public CreatureSetting setting;
+		public CreatureSetting creatureSetting;
+		public EquipmentSetting equipmentSetting;
 	}
 }
